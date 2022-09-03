@@ -3,7 +3,7 @@ A cross-platform application based on the Flutter Framework, which makes it easy
 
  - Uses UDP hole punching technology to bypass NAT;
  - Data exchange between users in the room - p2p;
- - Secure chat between users in the room.
- - Play cross-platform games with friends over the Internet without paying for hosting or a white IP. An example of such games: Minecraft Java or Rusted Warfare.
- 
+ - Chat between users in the room.
+ - Play cross-platform games with friends over the Internet without paying for hosting or a white IP. An example of such games: Minecraft, StarCraft or Rusted Warfare.
+ - Create an OpenVPN udp server to get more features.
  * Support for UDP connections only.
